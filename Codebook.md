@@ -1,87 +1,87 @@
 
 Variable names and description:
 
-subject: The integer id of one of the 30 subjects, ranging from 1 to 30.
-activity: The type of activity the subject was engaged in. One of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-timeBodyAccelerometerMeanX: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer - X
-timeBodyAccelerometerMeanY: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer - Y
-timeBodyAccelerometerMeanZ: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer - Z
-timeBodyAccelerometerStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer -X
-timeBodyAccelerometerStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer -X,Y, Z
-timeBodyAccelerometerStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer -X,Y, Z
-timeGravityAccelerometerMeanX: The mean of all time values for each combination of subject and activity for the variable time Gravity Accelerometer - X
-timeGravityAccelerometerMeanY: The mean of all time values for each combination of subject and activity for the variable time Gravity Accelerometer - Y
-timeGravityAccelerometerMeanZ: The mean of all time values for each combination of subject and activity for the variable time Gravity Accelerometer - Z
-timeGravityAccelerometerStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Gravity Accelerometer- X
-timeGravityAccelerometerStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Gravity Accelerometer- Y
-timeGravityAccelerometerStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Gravity Accelerometer- Z
-timeBodyAccelerometerJerkMeanX: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk X
-timeBodyAccelerometerJerkMeanY: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk Y
-timeBodyAccelerometerJerkMeanZ: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk Z
-timeBodyAccelerometerJerkStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk - X
-timeBodyAccelerometerJerkStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk - Y
-timeBodyAccelerometerJerkStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk - Z
-timeBodyGyroMeanX: The mean of all time values for each combination of subject and activity for the variable time Body Gyro X
-timeBodyGyroMeanY: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Y
-timeBodyGyroMeanZ: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Z
-timeBodyGyroStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro - X
-timeBodyGyroStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro - Y
-timeBodyGyroStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro - Z
-timeBodyGyroJerkMeanX: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Jerk X
-timeBodyGyroJerkMeanY: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Jerk Y
-timeBodyGyroJerkMeanZ: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Jerk Z
-timeBodyGyroJerkStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Jerk - X
-timeBodyGyroJerkStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Jerk - Y
-timeBodyGyroJerkStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Jerk - Z
-timeBodyAccelerometerMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Magnitude
-timeBodyAccelerometerMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Magnitude
-timeGravityAccelerometerMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Gravity Accelerometer Magnitude
-timeGravityAccelerometerMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Gravity Accelerometer Magnitude
-timeBodyAccelerometerJerkMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk Magnitude
-timeBodyAccelerometerJerkMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk Magnitude
-timeBodyGyroMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Magnitude
-timeBodyGyroMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Magnitude
-timeBodyGyroJerkMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Jerk Magnitude
-timeBodyGyroJerkMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Jerk Magnitude
-frequencyBodyAccelerometerMeanX: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - X
-frequencyBodyAccelerometerMeanY: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Y
-frequencyBodyAccelerometerMeanZ: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Z
-frequencyBodyAccelerometerStdX: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer -X
-frequencyBodyAccelerometerStdY: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer -Y
-frequencyBodyAccelerometerStdZ: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Z
-frequencyBodyAccelerometerMeanFreqX: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - X
-frequencyBodyAccelerometerMeanFreqY: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Y
-frequencyBodyAccelerometerMeanFreqZ: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Z
-frequencyBodyAccelerometerJerkMeanX: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - X
-frequencyBodyAccelerometerJerkMeanY: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Y
-frequencyBodyAccelerometerJerkMeanZ: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Z
-frequencyBodyAccelerometerJerkStdX: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk -X
-frequencyBodyAccelerometerJerkStdY: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Y
-frequencyBodyAccelerometerJerkStdZ: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk -Z
-frequencyBodyAccelerometerJerkMeanFreqX: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - X
-frequencyBodyAccelerometerJerkMeanFreqY: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Y
-frequencyBodyAccelerometerJerkMeanFreqZ: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Z
-frequencyBodyGyroMeanX: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro - X
-frequencyBodyGyroMeanY: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro - Y
-frequencyBodyGyroMeanZ: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro - Z
-frequencyBodyGyroStdX: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro - X
-frequencyBodyGyroStdY: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro - Y
-frequencyBodyGyroStdZ: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro - Z
-frequencyBodyGyroMeanFreqX: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro - X
-frequencyBodyGyroMeanFreqY: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro - Y
-frequencyBodyGyroMeanFreqZ: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro - Z
-frequencyBodyAccelerometerMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Magnitude
-frequencyBodyAccelerometerMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Magnitude
-frequencyBodyAccelerometerMagnitudeMeanFreq: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Magnitude
-frequencyBodyAccelerometerJerkMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk Magnitude
-frequencyBodyAccelerometerJerkMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk Magnitude
-frequencyBodyAccelerometerJerkMagnitudeMeanFreq: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk Magnitude
-frequencyBodyGyroMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro Magnitude
-frequencyBodyGyroMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro Magnitude
-frequencyBodyGyroMagnitudeMeanFreq: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro Magnitude
-frequencyBodyGyroJerkMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro Jerk Magnitude
-frequencyBodyGyroJerkMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro Jerk Magnitude
-frequencyBodyGyroJerkMagnitudeMeanFreq: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro Jerk Magnitude
+1. subject: The integer id of one of the 30 subjects, ranging from 1 to 30.
+2. activity: The type of activity the subject was engaged in. One of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+3. timeBodyAccelerometerMeanX: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer - X
+4. timeBodyAccelerometerMeanY: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer - Y
+5. timeBodyAccelerometerMeanZ: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer - Z
+6. timeBodyAccelerometerStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer -X
+7. timeBodyAccelerometerStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer -X,Y, Z
+8. timeBodyAccelerometerStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer -X,Y, Z
+9. timeGravityAccelerometerMeanX: The mean of all time values for each combination of subject and activity for the variable time Gravity Accelerometer - X
+10. timeGravityAccelerometerMeanY: The mean of all time values for each combination of subject and activity for the variable time Gravity Accelerometer - Y
+11. timeGravityAccelerometerMeanZ: The mean of all time values for each combination of subject and activity for the variable time Gravity Accelerometer - Z
+12. timeGravityAccelerometerStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Gravity Accelerometer- X
+13. timeGravityAccelerometerStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Gravity Accelerometer- Y
+14. timeGravityAccelerometerStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Gravity Accelerometer- Z
+15. timeBodyAccelerometerJerkMeanX: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk X
+16. timeBodyAccelerometerJerkMeanY: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk Y
+17. timeBodyAccelerometerJerkMeanZ: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk Z
+18. timeBodyAccelerometerJerkStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk - X
+19. timeBodyAccelerometerJerkStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk - Y
+20. timeBodyAccelerometerJerkStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk - Z
+21. timeBodyGyroMeanX: The mean of all time values for each combination of subject and activity for the variable time Body Gyro X
+22. timeBodyGyroMeanY: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Y
+23. timeBodyGyroMeanZ: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Z
+24. timeBodyGyroStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro - X
+25. timeBodyGyroStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro - Y
+26. timeBodyGyroStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro - Z
+27. timeBodyGyroJerkMeanX: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Jerk X
+28. timeBodyGyroJerkMeanY: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Jerk Y
+29. timeBodyGyroJerkMeanZ: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Jerk Z
+30. timeBodyGyroJerkStdX: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Jerk - X
+31. timeBodyGyroJerkStdY: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Jerk - Y
+32. timeBodyGyroJerkStdZ: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Jerk - Z
+33. timeBodyAccelerometerMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Magnitude
+34. timeBodyAccelerometerMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Magnitude
+35. timeGravityAccelerometerMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Gravity Accelerometer Magnitude
+36. timeGravityAccelerometerMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Gravity Accelerometer Magnitude
+37. timeBodyAccelerometerJerkMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk Magnitude
+38. timeBodyAccelerometerJerkMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Body Accelerometer Jerk Magnitude
+39. timeBodyGyroMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Magnitude
+40. timeBodyGyroMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Magnitude
+41. timeBodyGyroJerkMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable time Body Gyro Jerk Magnitude
+42. timeBodyGyroJerkMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable time Body Gyro Jerk Magnitude
+43. frequencyBodyAccelerometerMeanX: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - X
+44. frequencyBodyAccelerometerMeanY: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Y
+45. frequencyBodyAccelerometerMeanZ: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Z
+46. frequencyBodyAccelerometerStdX: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer -X
+47. frequencyBodyAccelerometerStdY: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer -Y
+48. frequencyBodyAccelerometerStdZ: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Z
+49. frequencyBodyAccelerometerMeanFreqX: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - X
+50. frequencyBodyAccelerometerMeanFreqY: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Y
+51. frequencyBodyAccelerometerMeanFreqZ: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer - Z
+52. frequencyBodyAccelerometerJerkMeanX: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - X
+53. frequencyBodyAccelerometerJerkMeanY: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Y
+54. frequencyBodyAccelerometerJerkMeanZ: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Z
+55. frequencyBodyAccelerometerJerkStdX: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk -X
+56. frequencyBodyAccelerometerJerkStdY: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Y
+57. frequencyBodyAccelerometerJerkStdZ: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk -Z
+58. frequencyBodyAccelerometerJerkMeanFreqX: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - X
+59. frequencyBodyAccelerometerJerkMeanFreqY: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Y
+60. frequencyBodyAccelerometerJerkMeanFreqZ: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk - Z
+61. frequencyBodyGyroMeanX: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro - X
+62. frequencyBodyGyroMeanY: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro - Y
+63. frequencyBodyGyroMeanZ: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro - Z
+64. frequencyBodyGyroStdX: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro - X
+65. frequencyBodyGyroStdY: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro - Y
+66. frequencyBodyGyroStdZ: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro - Z
+67. frequencyBodyGyroMeanFreqX: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro - X
+68. frequencyBodyGyroMeanFreqY: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro - Y
+69. frequencyBodyGyroMeanFreqZ: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro - Z
+70. frequencyBodyAccelerometerMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Magnitude
+71. frequencyBodyAccelerometerMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Magnitude
+72. frequencyBodyAccelerometerMagnitudeMeanFreq: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Magnitude
+73. frequencyBodyAccelerometerJerkMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk Magnitude
+74. frequencyBodyAccelerometerJerkMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk Magnitude
+75. frequencyBodyAccelerometerJerkMagnitudeMeanFreq: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Accelerometer Jerk Magnitude
+76. frequencyBodyGyroMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro Magnitude
+77. frequencyBodyGyroMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro Magnitude
+78. frequencyBodyGyroMagnitudeMeanFreq: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro Magnitude
+79. frequencyBodyGyroJerkMagnitudeMean: The mean of all time values for each combination of subject and activity for the variable frequency Body Gyro Jerk Magnitude
+80. frequencyBodyGyroJerkMagnitudeStd: The standard deviation of all time values for each combination of subject and activity for the variable frequency Body Gyro Jerk Magnitude
+81. frequencyBodyGyroJerkMagnitudeMeanFreq: The mean frequency of all time values for each combination of subject and activity for the variable frequency Body Gyro Jerk Magnitude
 
 Additional info:
 
